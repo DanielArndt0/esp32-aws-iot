@@ -1,0 +1,14 @@
+.pio/
+.vscode/
+include/secrets.h
+*.pem
+*.key
+*.p12
+*.pfx
+*.der
+*.crt
+*.zip
+.env
+.env.*
+!.env.example
+__pycache__/
